@@ -14,7 +14,7 @@ A simple, modern cross-platform Todo application built with [Expo](https://expo.
 
 ## Screenshots
 ![github pic](https://github.com/user-attachments/assets/690b1c06-1d3b-4e56-8672-5029b6afbe02)
-<Img source="https://github.com/user-attachments/assets/690b1c06-1d3b-4e56-8672-5029b6afbe02" height=150 width=100/>
+<img source="https://github.com/user-attachments/assets/690b1c06-1d3b-4e56-8672-5029b6afbe02" height=150 width=100/>
 
 
 ## Getting Started
